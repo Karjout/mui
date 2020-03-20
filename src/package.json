@@ -9,6 +9,6 @@
     "@material-ui/icons": "3.0.1",
     "mui-datatables": "2.0.0-beta-51",
     "react": "16.4.0",
-    "react-dom": "16.4.0"
+     "react-dom": ">=16.4.2"
   }
 }
